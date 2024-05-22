@@ -1,0 +1,2 @@
+class InvalidOfferCodeError(Exception):
+    pass
